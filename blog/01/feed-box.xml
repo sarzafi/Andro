@@ -1,0 +1,36 @@
+<div id='ITB-box'>
+<br /><br />
+<span style="font-family: &quot;Trebuchet MS&quot;,sans-serif; "><b><span style="color: white;  font-size:28px;">Sign Up for Email Updates</span></b></span>
+<br /><br />
+<span style="color: white; font-size:18px;"><i>Subscribe to our newsletter to get the latest and</i></span><br />
+
+<span style="color: white; font-size:18px; "><i>Greatest Blogger templates to your inbox  ;-)</i></span>
+<br /><br />
+<b><span style="color: white; font-size:19px;"><i>Your email address is safe with us!</i></span></b>
+
+
+<form action='http://feedburner.google.com/fb/a/mailverify' method='post' onsubmit='window.open(&apos;http://feedburner.google.com/fb/a/mailverify?uri=infotechblogging;, &apos;popupwindow&apos;, &apos;scrollbars=yes,width=565,height=265&apos;);return true' target='popupwindow'><center>
+
+
+<input name='email' onblur='if (this.value == &quot;&quot;) {this.value = &quot;Enter Your Email Address...&quot;;}' onfocus='if (this.value == &quot;Enter Your Email Address...&quot;) {this.value = &quot;&quot;}' size='30' type='text' value='Enter Your Email Address...'/> <input name='uri' type='hidden' value='infotechblogging'/> <input name='loc' type='hidden' value='en_US'/> <input class='submit' type='submit' value='Subscribe'/></center></form></div>
+
+<style>
+#ITB-box{
+border:1px;
+text-align:center;background-image: url(http://i60.tinypic.com/23tscvm.png);
+background-repeat:no-repeat;
+height:310px;
+width:445px;
+
+}
+#ITB-box input{background: -moz-linear-gradient(center top , #FFFFFF, #EFEFEF) repeat scroll 0 0 transparent;border:medium none;border-radius:0px 0px 0px 0px;font-size:16px;padding:9px;text-shadow:1px 1px 0 #FFF;width:220px; height:25px; color:#666; font-family:calibri; margin-top:48px;}
+
+
+#ITB-box .submit{background: -webkit-gradient(linear, left top, left bottom, from(#5495B7;), to(#5495B7));background: -moz-linear-gradient(center top , #4587AB, #4587AB) repeat scroll 0 0 transparent;color:#FFF;cursor:pointer;font-weight:normal;margin-left:20px;text-shadow:0 1px 2px #000;width:100px; height: 45px;
+border-radius:1px 1px 1px 1px;
+font-family:calibri; margin-left:5px; font-size:15px;}
+</style>
+
+Read more: Subscribe Box Widget | Blogger | InfoTechBlogging 
+All Rights Strictly Reserved 
+Under Creative Commons License: Attribution
