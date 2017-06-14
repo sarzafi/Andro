@@ -1,7 +1,14 @@
 h1{
   font-family: sans-serif;
+  background:#258d92;
+  color:#fff;
 }
-
+body {
+  background:lightskyblue;
+}
+a {
+  color:red;
+}
 table {
   font-family: Arial, Helvetica, sans-serif;
   color: #666;
